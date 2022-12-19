@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tkeyes25
 - 👀 I’m interested in full stack development, cloud development, and entrepreneurship
 - 🌱 I’m currently learning Next.js, Astro, ServiceNow, and Azure development
-- 💞️ I’m looking to collaborate on a project geared towards a sport or big data, or any web project which we can help with @SomataSolutions
+- 💞️ I’m looking to collaborate on a project geared towards a sport or big data, or any web project which we can help with @SomataSolutionsLLC
 - 📫 How to reach me -- email
 
 <!---
